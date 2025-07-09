@@ -14,7 +14,7 @@
 
 ## 📸 Screenshots
 
-| Description | Link |
+| Description | Image |
 | ----------- | ---- |
 | Conversation Screenshot | ![Screenshot](./Screenshot.png) |
 ---
